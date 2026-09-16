@@ -40,35 +40,6 @@ I specialize in taking mobile products from clean architecture and state managem
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
-<h3>Open source & repositories</h3>
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/yacine47/MyWalletApp"><b>Rasidi (MyWalletApp)</b></a> — <i>Local-first personal finance tracker</i></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/yacine47/MyWalletApp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/yacine47/MyWalletApp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/yacine47/MyWalletApp?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/yacine47/MyWalletApp?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/yacine47/yacinezitani-portfolio"><b>Personal Portfolio</b></a> — <i>Clean Architecture Next.js showcase</i></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/yacine47/yacinezitani-portfolio?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/yacine47/yacinezitani-portfolio?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/yacine47/yacinezitani-portfolio?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/yacine47/yacinezitani-portfolio?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-
 <h3>Featured production work</h3>
 <ul>
   <li><b>🏥 Dawak & Dawak Pharmacy:</b> Real-time prescription fulfillment, medicine locator, and pharmacy dispatch network with live geospatial querying.</li>
@@ -95,5 +66,5 @@ I specialize in taking mobile products from clean architecture and state managem
   <a href="https://www.linkedin.com/in/yacine-zitani-801775320/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://t.me/YacineZitani" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:zitaniyacine629@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1kJkXw7zysehCSXott0ARu9t5kEbJ3Vg2/view?usp=sharing" target="_blank"><img alt="CV" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1kJkXw7zysehCSXott0ARu9t5kEbJ3Vg2/view?usp=sharing" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </p>
