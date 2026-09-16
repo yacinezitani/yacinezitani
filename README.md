@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my profile! <br/> 
-I'm <b>Yacine Zitani</b>, Mobile & Full-Stack Developer based in 🇩🇿 <img src="https://flagcdn.com/16x12/dz.png" width="16"/> <b>Constantine, Algeria</b>.
+I'm <b>Yacine Zitani</b>, Freelance Mobile Application Developer.
 </p>
 
 <p>
@@ -28,9 +28,7 @@ I specialize in taking mobile products from clean architecture and state managem
   <!-- Web & Frontend -->
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
   <!-- Tools & DevOps -->
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -49,9 +47,9 @@ I specialize in taking mobile products from clean architecture and state managem
   <li><b>🕌 Dar Al-Fatwa:</b> Community Islamic jurisprudence advisory app with multilingual audio fatwas and offline caching.</li>
 </ul>
 
-<h3>📍 Constantine, Algeria (UTC+1)</h3>
+<h3>💼 Freelance & Collaborations</h3>
 <p>
-  Working remotely with clients worldwide. Always open to discussing new mobile projects, freelance contracts, and architecture consultations.
+  Available for freelance mobile app development, contract roles, and architecture consulting worldwide. Always open to discussing new projects and bringing ideas to store-ready reality.
 </p>
 
 <!-- GitHub Stats Badges -->
